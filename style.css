@@ -1,0 +1,14 @@
+* {
+    background-color: #ff6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.index-h1,
+.index-ul {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
